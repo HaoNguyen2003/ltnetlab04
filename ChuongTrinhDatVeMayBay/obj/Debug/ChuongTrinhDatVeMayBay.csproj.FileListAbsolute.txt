@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\bin\Debug\ChuongTrinhDatVeMayBay.exe.config
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\bin\Debug\ChuongTrinhDatVeMayBay.exe
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\bin\Debug\ChuongTrinhDatVeMayBay.pdb
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.Login.resources
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.Properties.Resources.resources
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.exe
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.pdb
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.RegistrationForm.resources
+C:\Users\PC\Desktop\.Net\ChuongTrinhDatVeMayBay\ChuongTrinhDatVeMayBay\obj\Debug\ChuongTrinhDatVeMayBay.RegisterBuyFlight.resources
